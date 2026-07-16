@@ -46,6 +46,8 @@
 *.log
 *.idb
 *.pdb
+*.aps
+
 /ODSyncLib/x64/Debug
 /ODSyncLib/RCa28944
 /ODSyncLib/RCb34924
@@ -56,3 +58,5 @@
 /ODSyncLib/Release
 /ODSyncLib/x64/Release
 /OneDriveFlyoutPS/x64/Debug
+/ODSyncLib/ODSyncLib.vcxproj.filters
+.metadata.json
